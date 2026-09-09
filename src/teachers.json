@@ -1,0 +1,7 @@
+{
+  "teacher": {
+    "salt": "mergington-school",
+    "iterations": 120000,
+    "password_hash": "3224abf451255a5b4c80661cfbf4cf5ed1ccc561f945882f416dd6fb83c2236d"
+  }
+}
